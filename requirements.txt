@@ -1,5 +1,6 @@
 # generated from manifests external_dependencies
 GitPython
+PyYAML
 github3.py
 markdown
 pathspec

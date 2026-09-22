@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright 2026 Dixmit
+     License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl). -->
+<odoo noupdate="1">
+    <record id="vcp_rule_psc" model="vcp.rule">
+        <field name="name">PSC Detection</field>
+        <field name="rule_type">psc</field>
+        <field name="branch_pattern">^master$</field>
+        <field name="paths"><![CDATA[conf]]></field>
+    </record>
+</odoo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright 2026 Dixmit
+     License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl). -->
+<odoo>
+    <record model="ir.ui.view" id="vcp_platform_form_view">
+        <field name="model">vcp.platform</field>
+        <field name="inherit_id" ref="vcp_management.vcp_platform_form_view" />
+        <field name="arch" type="xml">
+            <notebook position="inside">
+                <page string="PSC">
+                    <field name="psc_ids" />
+                </page>
+            </notebook>
+        </field>
+    </record>
+</odoo>
