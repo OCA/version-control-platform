@@ -14,6 +14,7 @@
         "security/ir.model.access.csv",
         "data/ir_cron.xml",
         "templates/templates.xml",
+        "reports/vcp_management_report.xml",
         "views/vcp_comment.xml",
         "views/vcp_review.xml",
         "views/vcp_request.xml",
