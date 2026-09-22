@@ -23,7 +23,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [vcp_git](vcp_git/) | 18.0.1.0.0 |  | Allows to download code from git
-[vcp_github](vcp_github/) | 18.0.1.0.2 |  | Integrate Version Control Platform with Github
+[vcp_github](vcp_github/) | 18.0.1.0.3 |  | Integrate Version Control Platform with Github
 [vcp_management](vcp_management/) | 18.0.1.0.3 |  | Management for your Version Control Platforms
 [vcp_odoo](vcp_odoo/) | 18.0.1.0.2 |  | Import Odoo modules from VCP Repositories
 [vcp_portal](vcp_portal/) | 18.0.1.0.0 |  | Version control platform integration with portal
