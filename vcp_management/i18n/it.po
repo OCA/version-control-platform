@@ -6,29 +6,33 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2026-10-07 08:46+0000\n"
+"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. module: vcp_management
 #: model_terms:ir.ui.view,arch_db:vcp_management.vcp_repository_branch_form_view
 msgid "<strong>There is an exception blocking the rule processing:</strong>"
 msgstr ""
+"<strong>Si è verificata un'eccezione che blocca l'elaborazione della "
+"regola:</strong>"
 
 #. module: vcp_management
 #: model:ir.model.constraint,message:vcp_management.constraint_vcp_platform_key_name_uniq
 msgid "API Key must be unique."
-msgstr ""
+msgstr "La chiave API deve essere univoca."
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_platform__key_ids
 #: model_terms:ir.ui.view,arch_db:vcp_management.vcp_platform_form_view
 msgid "API Keys"
-msgstr ""
+msgstr "Chiavi API"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_host__active
@@ -39,29 +43,29 @@ msgstr ""
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_user__active
 #: model_terms:ir.ui.view,arch_db:vcp_management.vcp_request_search_view
 msgid "Active"
-msgstr ""
+msgstr "Attivo"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_request__additions
 msgid "Additions"
-msgstr ""
+msgstr "Aggiunte"
 
 #. module: vcp_management
 #: model_terms:ir.ui.view,arch_db:vcp_management.vcp_repository_form_view
 #: model_terms:ir.ui.view,arch_db:vcp_management.vcp_repository_search_view
 msgid "Archived"
-msgstr ""
+msgstr "In archivio"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_user__avatar_url
 msgid "Avatar Url"
-msgstr ""
+msgstr "URL avatar"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_comment__body
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_review__body
 msgid "Body"
-msgstr ""
+msgstr "Corpo"
 
 #. module: vcp_management
 #: model:ir.model,name:vcp_management.model_vcp_branch
@@ -70,27 +74,27 @@ msgstr ""
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_repository_branch__branch_id
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_request__branch_id
 msgid "Branch"
-msgstr ""
+msgstr "Branch"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_repository__branch_count
 msgid "Branch Count"
-msgstr ""
+msgstr "Conteggio branch"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_rule__branch_pattern
 msgid "Branch Pattern"
-msgstr ""
+msgstr "Schema branch"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_repository__branch_update_date
 msgid "Branch Update Date"
-msgstr ""
+msgstr "Data aggiornamento branch"
 
 #. module: vcp_management
 #: model:ir.model.constraint,message:vcp_management.constraint_vcp_branch_name_uniq
 msgid "Branch name must be unique."
-msgstr ""
+msgstr "Il nome del branch deve essere univoco."
 
 #. module: vcp_management
 #: model:ir.actions.act_window,name:vcp_management.vcp_branch_act_window
@@ -98,34 +102,34 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:vcp_management.vcp_platform_form_view
 #: model_terms:ir.ui.view,arch_db:vcp_management.vcp_repository_form_view
 msgid "Branches"
-msgstr ""
+msgstr "Branch"
 
 #. module: vcp_management
 #: model:ir.model.fields.selection,name:vcp_management.selection__vcp_rule__rule_type__cloc
 msgid "Cloc Analysis"
-msgstr ""
+msgstr "Analisi orologio"
 
 #. module: vcp_management
 #: model:ir.model.fields.selection,name:vcp_management.selection__vcp_request__status__closed
 #: model_terms:ir.ui.view,arch_db:vcp_management.vcp_request_form_view
 msgid "Closed"
-msgstr ""
+msgstr "Chiusa"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_request__closed_at
 msgid "Closed At"
-msgstr ""
+msgstr "Chiusa il"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_host_type__code
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_platform__kind
 msgid "Code"
-msgstr ""
+msgstr "Codice"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_rule_information__code_count
 msgid "Code Count"
-msgstr ""
+msgstr "Conteggio codice"
 
 #. module: vcp_management
 #: model:ir.model.fields,field_description:vcp_management.field_vcp_host_type__code_kind
