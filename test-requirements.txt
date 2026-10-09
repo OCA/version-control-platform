@@ -1,0 +1,1 @@
+odoo-addon-vcp_management @ git+https://github.com/OCA/version-control-platform.git@refs/pull/11/head#subdirectory=vcp_management
